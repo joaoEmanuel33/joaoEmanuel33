@@ -6,24 +6,28 @@
 Sou um entusiasta da tecnologia apaixonado por resolver problemas através do código. Atualmente, foco meus estudos no ecossistema **Java** e no desenvolvimento web, sempre buscando integrar o uso de **Inteligências Artificiais** para otimizar processos e aprender novas ferramentas de forma acelerada. Sou movido pela curiosidade e pelo desejo de entregar sempre o melhor resultado possível.
 
 ### Stack's e Ferramentas
-**Linguagens** | Java |
-**Banco de Dados** | MySQL |
-**Ferramentas** | Git, GitHub, VS Code, IntelliJ |
-**Interesses** | Automações com IA, Vibe Coding |
+**Linguagens**  Java 
+
+**Banco de Dados**  MySQL 
+
+**Ferramentas**  Git, GitHub, VS Code, IntelliJ 
+
+**Interesses**  Automações com IA, Vibe Coding 
 
 ### Projetos
-**[Nome do Projeto: Gerenciamento de Eventos]**
+**Nome do Projeto: Gerenciamento de Eventos**
 * **Descrição:** Sistema de gerenciamento de eventos desenvolvido durante o curso do SENAI.
 * **Tecnologias:** Java, MySQL.
 * 🔗 https://github.com/joaoEmanuel33/eventsmanager-master-main.git
 
-**[Nome do Projeto Web: Interface do Sistema de Gerenciamento de Eventos]**
+**Nome do Projeto Web: Interface do Sistema de Gerenciamento de Eventos**
 * **Descrição:** aplicação web interativa.
 * **Tecnologias:** JavaScript, CSS.
 * 🔗https://github.com/joaoEmanuel33/react-laranja.git
 
 ### Entre em contato
 **LinkedIn:** https://br.linkedin.com/in/jo%C3%A3o-emanuel-guessi-camargo-bb9752302
+
 **Email:** joaoema1458@gmail.com
 
-<div>Eu não paro quando estou cansado. Eu paro quando terminei.</div>
+<div>"Eu não paro quando estou cansado. Eu paro quando terminei." - Goggins David</div>
